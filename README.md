@@ -5,7 +5,7 @@
 
 [![image.png](https://i.postimg.cc/mZ7Kq3tM/image.png)](https://postimg.cc/8sPyf6dP)
 
-## How use it
+## How to use it
 
 Just add your username to this link and choose a color if you want :
 
