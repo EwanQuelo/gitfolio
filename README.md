@@ -35,7 +35,7 @@ Go to : https://ewanquelo.github.io/gitfolio/
 
 And fill in the name and color field 
 
-[![image.png](https://i.postimg.cc/HkSxgpfb/image.png)](https://postimg.cc/Jskm3W7h)
+[![image.png](https://i.postimg.cc/rwHxCXqC/image.png)](https://postimg.cc/mPQPBnzt)
  
 ---
 
