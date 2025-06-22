@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>GitHub Projects - Menu</title>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="./script.js"></script>
+</head>
+
+<body>
+    <div id="search-container">
+        <div class="search-box">
+            <h1>Search for a GitHub profile</h1>
+            <p id="search-error-message" class="error-text"></p>
+            <form id="search-form">
+                <input type="text" id="username-input" placeholder="Enter a username..." required>
+                <button type="submit">Search</button>
+            </form>
+        </div>
+    </div>
+
+    <div id="main-content" style="display: none;">
+        <div class="titreContainer">
+            <a id="profile-link" href="#" target="_blank" class="titreNom">GitHub Account</a>
+        </div>
+        <div class="menu">
+            <h2 class="titreMenu">My projects:</h2>
+            <ul id="project-list"></ul>
+        </div>
+
+        <div id="github-stats" class="statsContainer">
+        Loading stats...
+    </div>
+    </div>
+
+    <div class="descGithubContainer">
+        <div class="descGithub">
+            Created By <a href="https://github.com/EwanQuelo" target="_blank">EwanQuelo</a>
+        </div>
+    </div>
+</body>
+</html>
