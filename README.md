@@ -11,11 +11,11 @@ Just add your username to this link and choose a color if you want :
 
 With color :
 
-https://ewanquelo.github.io/universal-GitPortfolio/?user=USERNAME&color=e0e0e0
+https://ewanquelo.github.io/GitFolio/?user=USERNAME&color=e0e0e0
 
 Without(default purple):
 
-https://ewanquelo.github.io/universal-GitPortfolio/?user=USERNAME
+https://ewanquelo.github.io/GitFolio/?user=USERNAME
 
 ---
 
@@ -23,7 +23,7 @@ https://ewanquelo.github.io/universal-GitPortfolio/?user=USERNAME
 
 You can customize the theme color of the portfolio by passing a `color` parameter in the URL:
 
-https://ewanquelo.github.io/universal-GitPortfolio/?user=USERNAME&color=e0e0e0
+https://ewanquelo.github.io/GitFolio/?user=USERNAME&color=e0e0e0
 
 
 Supported format:
@@ -35,8 +35,8 @@ Supported format:
 ---
 
 ### Example
-https://ewanquelo.github.io/universal-GitPortfolio/?user=EwanQuelo&color=e0e0e0
+https://ewanquelo.github.io/GitFolio/?user=EwanQuelo&color=e0e0e0
 
-https://ewanquelo.github.io/universal-GitPortfolio/?user=b5i&color=ffcc00
+https://ewanquelo.github.io/GitFolio/?user=b5i&color=ffcc00
 
 ---
