@@ -1,22 +1,42 @@
-# universal-GitPortfolio
+# GitFolio
 
+**This tools admits you to create your own portfolio using your github's repositories**
 
-[![image.png](https://i.postimg.cc/FRR4yY9z/image.png)](https://postimg.cc/GBZVrhTn)
-
-[![image.png](https://i.postimg.cc/mZ7Kq3tM/image.png)](https://postimg.cc/8sPyf6dP)
+<table>
+    <tr>
+        <td>
+            <a href="https://postimg.cc/GBZVrhTn">
+                <img src="https://i.postimg.cc/FRR4yY9z/image.png" alt="Screenshot 1" width="300"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://postimg.cc/8sPyf6dP">
+                <img src="https://i.postimg.cc/mZ7Kq3tM/image.png" alt="Screenshot 2" width="300"/>
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://i.postimg.cc/C1Pswtfr/">
+                <img src="https://i.postimg.cc/C1Pswtfr/image.png" alt="Screenshot 1" width="300"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://i.postimg.cc/PJ8gn1Fc/">
+                <img src="https://i.postimg.cc/PJ8gn1Fc/image.png" alt="Screenshot 2" width="300"/>
+            </a>
+        </td>
+    </tr>
+</table>
 
 ## How to use it
 
-Just add your username to this link and choose a color if you want :
+Go to : https://ewanquelo.github.io/gitfolio/
 
-With color :
+And fill in the name and color field 
 
-https://ewanquelo.github.io/gitfolio/?user=USERNAME&color=e0e0e0
-
-Without(default purple):
-
-https://ewanquelo.github.io/gitfolio/?user=USERNAME
-
+[![image.png](https://i.postimg.cc/HkSxgpfb/image.png)](https://postimg.cc/Jskm3W7h)
+ 
 ---
 
 ### Custom Color
@@ -28,7 +48,7 @@ https://ewanquelo.github.io/gitfolio/?user=USERNAME&color=e0e0e0
 
 Supported format:
 - 6-digit hex codes (e.g. `e0e0e0`)
-- Don't prefix with `#`, just use the hex string
+- Don't prefix with `#` just use the hex string
 
 **Color picker:** [HERE](https://www.w3schools.com/colors/colors_picker.asp)
 
