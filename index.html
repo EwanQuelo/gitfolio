@@ -20,6 +20,18 @@
                 <button type="submit">Search</button>
             </form>
         </div>
+
+        <div class="link-creator-box">
+            <h2>Create your link</h2>
+            <form id="link-creator-form">
+                <input type="text" id="link-username-input" placeholder="Enter a username..." required>
+                <input type="color" id="link-color-picker" value="#725cd5" title="Choose a background color">
+            </form>
+            <div id="generated-link-area" style="display: none;">
+                <input type="text" id="generated-link-output" readonly>
+                <button id="copy-link-button">Copy</button>
+            </div>
+        </div>
     </div>
 
     <div id="main-content" style="display: none;">
