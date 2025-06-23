@@ -35,7 +35,7 @@ body {
     animation: slideInFromBottom 1.5s ease-in-out;
     top: 2vw;
     left: 0;
-    width: 100%;
+    width: 95%;
 }
 
 .menu ul {
